@@ -5,12 +5,11 @@ An AI-powered full-stack web application that helps students generate and analyz
 The project is built using **React + Vite** for the frontend, **FastAPI** for the backend, **MongoDB** for data storage, and **Facebook mBART** for multilingual story analysis and generation-related NLP tasks.
 
 ---
+## 🌐 Live Demo
 
-## 🚀 Live Project
-
-> **Frontend:** http://localhost:5173/
-> **Backend API:** http://127.0.0.1:800/docs
-
+- **Frontend:** https://story-completion-xd2n.vercel.app/
+- **Backend API:** https://story-completion.onrender.com
+- **API Documentation:** https://story-completion.onrender.com/docs
 ---
 
 ## ✨ Features
